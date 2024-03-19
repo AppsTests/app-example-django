@@ -4,7 +4,7 @@
 
 Пример приложения [Django](https://www.djangoproject.com/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
-:tada: [Демо]()
+:tada: [Демо](https://timeweb-cloud-app-example-django-4a10.twc1.net)
 
 :rocket: [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
