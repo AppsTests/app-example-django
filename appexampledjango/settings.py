@@ -25,8 +25,7 @@ SECRET_KEY = 'django-insecure-p93osbo818#b$x-+rr6yo7lq5tidcclx@k-u%zvj%km#kzope=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['timeweb-cloud-app-example-django-4a10.twc1.net']
 
 # Application definition
 
